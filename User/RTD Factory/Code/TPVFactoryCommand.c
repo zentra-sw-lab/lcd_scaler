@@ -278,12 +278,12 @@ StructFactoryType g_stFactoryData;
 
 code StructFactoryType g_stFactoryDataDefault=
 {
-	_ON,                   // b1OsdFactory	//¹¤³§
-    _ON,			// b1BurnIn : 1;		//ÀÏ»¯
+	_ON,                   // b1OsdFactory	//ï¿½ï¿½ï¿½ï¿½
+    _ON,			// b1BurnIn : 1;		//ï¿½Ï»ï¿½
 	_FORCE_LOGO_OFF,// b1LogoOff :1;//DFM rev04 patch note 2
 	_FAIL,			// b1InternalAutoColor :1;//DFM rev05 patch note 2
 	_OFF,			// b1EnergyLogo :1;
-	_ON,            // b1AutoSource :1;		//×Ô¶¯ÐÅºÅ¼ì²â
+	_ON,            // b1AutoSource :1;		//ï¿½Ô¶ï¿½ï¿½ÅºÅ¼ï¿½ï¿½
 	_OFF,   // b1Resetoff:1;
     100,			// ucsRGBBacklight;
     64,				// ucVcomValue
@@ -927,7 +927,7 @@ bit TPVFCmdFactoryCommand(void)
 								}
 								else if(g_pucDdcciRxBuf[_FC_BYTE6] == 0x01)
 								{
-									if(g_pucDdcciRxBuf[_FC_BYTE7] == SUB1_VCP_FC_SET_WR_END)//	edid  ²Ù×÷Íê³É
+									if(g_pucDdcciRxBuf[_FC_BYTE7] == SUB1_VCP_FC_SET_WR_END)//	edid  ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 									{
 		
 		//DFM rev02 patch note 8>>
@@ -953,7 +953,7 @@ bit TPVFCmdFactoryCommand(void)
 										//}
 		//DFM rev02 patch note 8<<
 									}
-									else if(g_pucDdcciRxBuf[_FC_BYTE7] == SUB1_VCP_FC_SET_WR_START)//  ¿ªÊ¼×¼±¸Ð´EDID
+									else if(g_pucDdcciRxBuf[_FC_BYTE7] == SUB1_VCP_FC_SET_WR_START)//  ï¿½ï¿½Ê¼×¼ï¿½ï¿½Ð´EDID
 									{
 		
 								#if ((_DP_SUPPORT == _ON) || (_MHL_SUPPORT == _ON))
@@ -1431,7 +1431,7 @@ typedef enum
 
 
 
-void Edid_SN_READ(BYTE cmd)//ÓëPCB¶Ë¿ÚÒ»ÖÂ ÈôSNÓÐÒì³£Ó¦¼ì²é´Ë´¦
+void Edid_SN_READ(BYTE cmd)//ï¿½ï¿½PCBï¿½Ë¿ï¿½Ò»ï¿½ï¿½ ï¿½ï¿½SNï¿½ï¿½ï¿½ì³£Ó¦ï¿½ï¿½ï¿½Ë´ï¿½
 {  
     BYTE DATA[13]={0};
 

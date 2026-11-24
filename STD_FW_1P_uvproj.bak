@@ -9154,6 +9154,11 @@
               <FileType>1</FileType>
               <FilePath>.\User\RTD Factory\Code\RTDFactoryMode.c</FilePath>
             </File>
+            <File>
+              <FileName>TPVFactoryCommand.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\User\RTD Factory\Code\TPVFactoryCommand.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -19919,6 +19924,11 @@
               <FileType>1</FileType>
               <FilePath>.\User\RTD Factory\Code\RTDFactoryMode.c</FilePath>
             </File>
+            <File>
+              <FileName>TPVFactoryCommand.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\User\RTD Factory\Code\TPVFactoryCommand.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -30245,6 +30255,11 @@
               <FileType>1</FileType>
               <FilePath>.\User\RTD Factory\Code\RTDFactoryMode.c</FilePath>
             </File>
+            <File>
+              <FileName>TPVFactoryCommand.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\User\RTD Factory\Code\TPVFactoryCommand.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -31225,7 +31240,7 @@
               <MiscControls></MiscControls>
               <Define>_PROJECT = _RL6449_PROJECT, _SCALER_TYPE = _RL6449_SERIES</Define>
               <Undefine></Undefine>
-              <IncludePath>.\Output\RL6449_Project;.\Project\Header;.\Pcb;.\Panel;.\Kernel\Device\Header;.\Kernel\Common;.\Kernel\System\Header;.\Kernel\Scaler\ScalerFunction\Header;.\Kernel\Scaler\ScalerCommonFunction\Header;.\Kernel\Scaler\ScalerFunction\Lib\Header;.\Kernel\Scaler\ScalerCommonFunction\Lib\Header;.\Kernel\Scaler\RL6449_Series_Scaler\Header;.\Kernel\Scaler\RL6449_Series_Scaler\Lib\Header;.\Kernel\Scaler\RL6449_Series_Common\Header;.\Kernel\Scaler\RL6449_Series_Common\Lib\Header;.\Kernel\User Common Function\Header;.\User\RTD Series\RTD2014Function\Header;.\User\RTD Series\RTD2014Osd\Header;.\User\RTD Factory\Header;.\User\None Series\NoneFunction\Header;.\User\None Series\NoneOsd\Header;.\User\None Factory\Header</IncludePath>
+              <IncludePath>.\Output\RL6449_Project;.\Project\Header;.\Pcb;.\Panel;.\Kernel\Device\Header;.\Kernel\Common;.\Kernel\System\Header;.\Kernel\Scaler\ScalerFunction\Header;.\Kernel\Scaler\ScalerCommonFunction\Header;.\Kernel\Scaler\ScalerFunction\Lib\Header;.\Kernel\Scaler\ScalerCommonFunction\Lib\Header;.\Kernel\Scaler\RL6449_Series_Scaler\Header;.\Kernel\Scaler\RL6449_Series_Scaler\Lib\Header;.\Kernel\Scaler\RL6449_Series_Common\Header;.\Kernel\Scaler\RL6449_Series_Common\Lib\Header;.\Kernel\User Common Function\Header;.\User\RTD Series\RTD2014Function\Header;.\User\RTD Series\RTD2014Osd\Header;.\User\RTD Factory\Header;.\User\None Series\NoneFunction\Header;.\User\None Series\NoneOsd\Header;.\User\None Factory\Header;.\User\RTD Factory\Code</IncludePath>
             </VariousControls>
           </C51>
           <Ax51>
@@ -41911,6 +41926,11 @@
               <FileName>RTDFactoryMode.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\User\RTD Factory\Code\RTDFactoryMode.c</FilePath>
+            </File>
+            <File>
+              <FileName>TPVFactoryCommand.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\User\RTD Factory\Code\TPVFactoryCommand.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -52800,6 +52820,11 @@
               <FileType>1</FileType>
               <FilePath>.\User\RTD Factory\Code\RTDFactoryMode.c</FilePath>
             </File>
+            <File>
+              <FileName>TPVFactoryCommand.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\User\RTD Factory\Code\TPVFactoryCommand.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -63020,6 +63045,11 @@
               <FileType>1</FileType>
               <FilePath>.\User\RTD Factory\Code\RTDFactoryMode.c</FilePath>
             </File>
+            <File>
+              <FileName>TPVFactoryCommand.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\User\RTD Factory\Code\TPVFactoryCommand.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -72698,6 +72728,11 @@
               <FileName>RTDFactoryMode.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\User\RTD Factory\Code\RTDFactoryMode.c</FilePath>
+            </File>
+            <File>
+              <FileName>TPVFactoryCommand.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\User\RTD Factory\Code\TPVFactoryCommand.c</FilePath>
             </File>
           </Files>
         </Group>

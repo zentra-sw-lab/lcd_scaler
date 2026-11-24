@@ -481,7 +481,7 @@ code StructOsdUserDataType g_stOSDDefaultData =  //+29
 //--------------------------------------------------------
 	_DEF_GAMMA,               // b3Gamma;
 	_DEF_ASPECT,			  // b3AspectRatio;
-	_ON,                      // b1DDCCIStatus;
+	_OFF,                      // b1DDCCIStatus;
     _DEF_DCR,                 // b1OsdDcrStatus ;
 //--------------------------------------------------------
     _OD_GAIN_DEF,          // ucODGain;

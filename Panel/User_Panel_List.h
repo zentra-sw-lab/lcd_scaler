@@ -196,6 +196,8 @@
 #define _CSOT_LD490EQY_VBY_UHD_60HZ                         180 //3840X2160@60
 #define _CSOT_SG5461D18_1_VBY_UHD_60HZ                      181 //3840X2160@60
 #define _CSOT_LC430EQZ_VBY_UHD_60HZ                         182 //3840X2160@60
+#define _CSOT_P500QVN04_1_VBY_UHD_60HZ                      183 //3840X2160@60
+#define _AUO_P500QVN04_0_VBY_UHD_60HZ                       184 //3840X2160@60
 //--------------------------------------------------
 // Panel Led Driver List (Can Not Be 0xFF)
 //--------------------------------------------------

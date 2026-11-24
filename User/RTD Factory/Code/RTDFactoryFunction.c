@@ -98,8 +98,8 @@ extern bit IS_HDCP_KEY_READY(void);
 #define _FW_VERSION                         _F__,_W__,__,_COLON__,__,_V__,_C__,_0__,_4__,__,_2__,_0__,_2__,_6__,_0__,_4__,_3__,_0__
 #elif(Project_ID == ID_NTQ_CO43AF_HK2775E01_1P1H_SG4251D02_1_UHD60HZ)
 #define _FW_VERSION                         _F__,_W__,__,_COLON__,__,_V__,_C__,_0__,_1__,__,_2__,_0__,_2__,_6__,_0__,_9__,_1__,_7__
-#elif(Project_ID == ID_NTQ_CO49AFL_HK2775E01_1P1H_LD490EQY_UHD60HZ)
-#define _FW_VERSION                         _F__,_W__,__,_COLON__,__,_V__,_C__,_0__,_1__,__,_2__,_0__,_2__,_6__,_0__,_9__,_1__,_7__
+#elif(Project_ID == ID_NTQ_CO49AFL_HK2775E01_1P1H_P500QVN040_UHD60HZ)
+#define _FW_VERSION                         _F__,_W__,__,_COLON__,__,_V__,_C__,_0__,_1__,__,_2__,_0__,_2__,_6__,_1__,_0__,_3__,_0__
 #elif(Project_ID == ID_NTQ_CO55AFL_HK2775E01_1P1H_SG5461D18_1_UHD60HZ)
 #define _FW_VERSION                         _F__,_W__,__,_COLON__,__,_V__,_C__,_0__,_1__,__,_2__,_0__,_2__,_6__,_0__,_9__,_1__,_7__
 #else

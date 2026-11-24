@@ -95,7 +95,7 @@
 
 //F
 #define ID_NTQ_CO43AF_HK2775E01_1P1H_SG4251D02_1_UHD60HZ                            0x4453
-#define ID_NTQ_CO49AFL_HK2775E01_1P1H_LD490EQY_UHD60HZ                              0x4454
+#define ID_NTQ_CO49AFL_HK2775E01_1P1H_P500QVN040_UHD60HZ                            0x4454
 #define ID_NTQ_CO55AFL_HK2775E01_1P1H_SG5461D18_1_UHD60HZ                           0x4455
 
 /*********************RL6463*********************************************/
@@ -113,7 +113,7 @@
 #define _DEF_HUIXIONG_GCCD                                      0
 
 /*********************************** ***********************************************************/
-#define Project_ID                                              ID_NTQ_CO43AF_HK2775E01_1P1H_SG4251D02_1_UHD60HZ
+#define Project_ID                                              ID_NTQ_CO49AFL_HK2775E01_1P1H_P500QVN040_UHD60HZ
 
 /**********************************************************************************************/
 #define _DEF_PROJECT_TEST                                       _OFF
@@ -554,9 +554,9 @@
 
 //For bin name
 #define CUSTOMER_BIN_NAME                                        "QXT430TF_RT2775E01_SG4251D02.1_VC01"
-#elif(Project_ID == ID_NTQ_CO49AFL_HK2775E01_1P1H_LD490EQY_UHD60HZ)
+#elif(Project_ID == ID_NTQ_CO49AFL_HK2775E01_1P1H_P500QVN040_UHD60HZ)
 #define _PCB_TYPE                                               _RL6449__216PIN__HK_M_RTD2775E01__1DP1H__eDPVB1
-#define _PANEL_TYPE                                             _CSOT_P500QVN04_1_VBY_UHD_60HZ     //_CSOT_LD490EQY_VBY_UHD_60HZ
+#define _PANEL_TYPE                                             _AUO_P500QVN04_0_VBY_UHD_60HZ //_CSOT_P500QVN04_1_VBY_UHD_60HZ //_CSOT_LD490EQY_VBY_UHD_60HZ
 #define _FRC_SUPPORT                                            _ON
 #define _MPRT_SUPPORT                                           _OFF
 #define _HDMI_24C02_SUPPORT                                     _OFF
@@ -569,7 +569,7 @@
 #define _DEF_DDCCI_EDID_TOOL									_ON  // ����edid
 
 //For bin name
-#define CUSTOMER_BIN_NAME                                        "QXT490TF_RT2775E01_P500QVN04.1_VC01"
+#define CUSTOMER_BIN_NAME                                        "QXT490TF_RT2775E01_P500QVN04.0_VC01"
 #elif(Project_ID == ID_NTQ_CO55AFL_HK2775E01_1P1H_SG5461D18_1_UHD60HZ)
 #define _PCB_TYPE                                               _RL6449__216PIN__HK_M_RTD2775E01__1DP1H__eDPVB1
 #define _PANEL_TYPE                                             _CSOT_SG5461D18_1_VBY_UHD_60HZ

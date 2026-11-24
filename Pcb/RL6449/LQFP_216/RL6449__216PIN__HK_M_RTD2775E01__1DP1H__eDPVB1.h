@@ -1175,7 +1175,7 @@ sbit KEY3_KEY								 	=P1^4;	//Pin_67
 #elif (Project_ID == ID_NTQ_CO43AF_HK2775E01_1P1H_SG4251D02_1_UHD60HZ)
 #define _MAIN_PAGE_MODEL_NAME                 _M__,_O__,_D__,_E__,_L__,_COLON__,_Q__,_X__,_T__,_4__,_3__,_0__,_T__,_F__
 
-#elif (Project_ID == ID_NTQ_CO49AFL_HK2775E01_1P1H_LD490EQY_UHD60HZ)
+#elif (Project_ID == ID_NTQ_CO49AFL_HK2775E01_1P1H_P500QVN040_UHD60HZ)
 #define _MAIN_PAGE_MODEL_NAME                 _M__,_O__,_D__,_E__,_L__,_COLON__,_Q__,_X__,_T__,_4__,_9__,_0__,_T__,_F__
 
 #elif (Project_ID == ID_NTQ_CO55AFL_HK2775E01_1P1H_SG5461D18_1_UHD60HZ)
